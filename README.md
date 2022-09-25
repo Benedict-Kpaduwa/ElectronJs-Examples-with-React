@@ -9,3 +9,4 @@ You're welcome to make changes
 * DarkMode
 * FileBrowser
 * BlueTooth connection on devices 
+* Drag and Drop
