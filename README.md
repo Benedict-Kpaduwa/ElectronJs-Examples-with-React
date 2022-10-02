@@ -10,3 +10,4 @@ You're welcome to make changes
 * FileBrowser
 * BlueTooth connection on devices 
 * Drag and Drop
+* Apple Pay 
